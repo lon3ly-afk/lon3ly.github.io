@@ -1,1 +1,9 @@
 git clone https://github.com/ username/username.github.io
+
+имя пользователя на компакт-диске.github.io
+эхо "Hello World" > index.html
+git add --all
+
+git commit -m "Первоначальный коммит"
+
+git push -u origin main
